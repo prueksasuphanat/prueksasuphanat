@@ -6,9 +6,9 @@ Full-stack Developer
 
 I am a \*\*Full-stack Developer\*\* with a Bachelor's and Master's degree in \*\*Industrial Engineering\*\* from Chiang Mai University. I leverage my engineering background to build optimized, scalable, and efficient systems.
 
-\- 🚀 \*\*Past:\*\* Built foundations with Nuxt.js, Vue, and PHP.
-\- 💻 \*\*Present:\*\* Focused on \*\*Vue 3, TypeScript, and Node.js\*\* (Prisma/Kysely).
-\- 🎯 \*\*Future:\*\* Mastering \*\*React, Next.js\*\*, and exploring \*\*Multi-agent AI systems\*\*.
+* Past: Built foundations with Nuxt.js, Vue, and PHP.
+* Present: Focused on Vue 3, TypeScript, and Node.js (Prisma/Kysely).
+* Future: Mastering React, Next.js, and exploring Multi-agent AI systems.
 
 
 * 🌍  I'm based in Chiang mai, Thailand
